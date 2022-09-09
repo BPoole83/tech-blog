@@ -1,7 +1,7 @@
 # 14-MVC-Tech-Blog
 
 Model-View-Controller (MVC): Tech Blog
-
+hello
 # Objectives
 
 The primary objectives of this exercise were to demonstrate the following:
