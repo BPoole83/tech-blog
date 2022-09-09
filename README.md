@@ -1,7 +1,6 @@
 # 14-MVC-Tech-Blog
 
-Due Date:P 5/1/2021 @ 11:59 PM
-Homework #14: Model-View-Controller (MVC): Tech Blog
+Model-View-Controller (MVC): Tech Blog
 
 # Objectives
 
@@ -26,7 +25,7 @@ This exercise requires the following npm modules
 
 | Description       | Link                                         |
 | ----------------- | -------------------------------------------- |
-| github repo       | https://github.com/jonesjsc/14-MVC-Tech-Blog |
+| github repo       | https://github.com/BPoole83/tech-blog|
 | heroku deployment | https://techblog-hw14.herokuapp.com/         |
 
 # Routes
